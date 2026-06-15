@@ -1,9 +1,14 @@
 This is for the demo1 
 123
 
+<<<<<<< HEAD
 This will be my 3rd commit 
 12333445
 
 
 this will be my 4th commit 
 123456789
+=======
+This is for the 2nd commit 
+12333
+>>>>>>> parent of 1012f0f (This is 3rd commit)
